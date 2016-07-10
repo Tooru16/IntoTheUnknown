@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "itu:blocks/blockFlowOrigin",
+    "down": "itu:blocks/blockFlowOrigin",
+    "up": "itu:blocks/blockFlowOrigin",
+    "east": "itu:blocks/blockChargedBedrock",
+    "west": "itu:blocks/blockChargedBedrock",
+    "north": "itu:blocks/blockChargedBedrock",
+    "south": "itu:blocks/blockChargedBedrock"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "itu:base/itemDefaultModItem",
+  "textures": {
+    "layer0": "itu:items/itemChargedStick"
+  }
+}

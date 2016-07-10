@@ -1,0 +1,30 @@
+# Configuration GUI
+gui.config.mainTitle=Into The Unknown Configuration
+gui.config.ctgy.main=Main Configuration
+gui.config.ctgy.main.tooltip=Set of general mod variables
+gui.config.valueDifficulty=Mod Difficulty
+gui.config.valueDifficulty.tooltip=Any double value from 0.1 to 10.0
+
+# Key Bindings
+key.categories.main=Into The Unknown
+key.open=Open Glove Interface
+
+# Blocks
+tile.blockFlowOrigin.name=Flow Origin
+tile.blockChargedBedrock.name=Charged Bedrock
+tile.blockEquipmentTuner.name=Equipment Tuner
+
+# Items
+item.itemChargedStick.name=Charged Stick
+item.itemCrystalShard.name=Crystal Shard
+
+item.itemWoodenGlove.name=Wooden Glove
+
+item.itemPrimitiveCore.name=Primitive Core
+
+# Creative Tab
+itemGroup.itu=Into The Unknown
+
+# Inventories
+container.tileInventory=Inventory
+container.tileEquipmentTuner=Equipment Tuner

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "itu",
+  "name": "Into The Unknown",
+  "description": "",
+  "version": "0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tooru"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
